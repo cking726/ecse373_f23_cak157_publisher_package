@@ -1,0 +1,7 @@
+# has is the comment
+
+# these are typical backup file patterns
+*~
+\#*#
+
+*.bak
